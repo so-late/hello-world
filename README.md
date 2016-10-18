@@ -1,2 +1,5 @@
 # hello-world
-just a new rpeository
+
+Hello Humans!
+
+About me is none of your business :)
